@@ -8,6 +8,9 @@ and [Lingjia Liu](https://computing.ece.vt.edu/~lingjialiu/doku.php)
 
 IEEE Internet of Things Journal, Vol. 6, No. 2, pp. 1938-1948, April 2019.
 
+### Introduction
+A combination of reservoir computing (RC) and deep Q-network (DQN) is utilized to design spectrum access strategies for secondary users (SUs) in dynamic spectrum access (DSA) networks.
+
 ### Citation
 
 If you find the code and datasets useful in your research, please cite:
