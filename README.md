@@ -7,10 +7,13 @@ IEEE Internet of Things Journal, Vol. 6, No. 2, pp. 1938-1948, April 2019.
 
 If you find the code and datasets useful in your research, please cite:
 
-    @inproceedings{LapSRN,
-        author    = {Lai, Wei-Sheng and Huang, Jia-Bin and Ahuja, Narendra and Yang, Ming-Hsuan}, 
-        title     = {Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution}, 
-        booktitle = {IEEE Conferene on Computer Vision and Pattern Recognition},
-        year      = {2017}
-    }
+    @article{Chang2019DSA,
+    author={Chang, Hao-Hsuan and Song, Hao and Yi, Yang and Zhang, Jianzhong and He, Haibo and Liu, Lingjia},
+    journal= {IEEE Internet of Things Journal},
+    title={Distributive Dynamic Spectrum Access Through Deep Reinforcement Learning: A Reservoir Computing-Based Approach},
+    year={2019},
+    volume={6},
+    number={2},
+    pages={1938--1948},
+    month={April}}
 
