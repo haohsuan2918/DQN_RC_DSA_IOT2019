@@ -16,4 +16,9 @@ If you find the code and datasets useful in your research, please cite:
     number={2},
     pages={1938--1948},
     month={April}}
+ 
+### Training code
+    >> main.py
 
+### Plot results
+    >> plot_figure.py
