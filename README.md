@@ -4,6 +4,7 @@
 Hao Song, 
 [Yang Yi](https://www.yangyi.ece.vt.edu/index.html), 
 Jianzhong (Charlie) Zhang,
+[Haibo He](https://www.ele.uri.edu/faculty/he/),
 and [Lingjia Liu](https://computing.ece.vt.edu/~lingjialiu/doku.php)
 
 IEEE Internet of Things Journal, Vol. 6, No. 2, pp. 1938-1948, April 2019.
