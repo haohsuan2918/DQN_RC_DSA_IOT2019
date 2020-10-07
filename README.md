@@ -16,7 +16,7 @@ A combination of reservoir computing (RC) and deep Q-network (DQN) is utilized t
 
 ### Citation
 
-If you find the code and datasets useful in your research, please cite:
+If you find the code useful in your research, please cite:
 
     @article{Chang2019DSA,
     author={Chang, Hao-Hsuan and Song, Hao and Yi, Yang and Zhang, Jianzhong and He, Haibo and Liu, Lingjia},
